@@ -1,6 +1,6 @@
 # Visual Basic - Temperature Converter
 ---
-## Screenshots
+## Screenshot
 <p align="center"> 
 	<img src="https://raw.githubusercontent.com/jovanidash21/visual-basic-temperature-converter/master/screenshot.png">
 </p>
