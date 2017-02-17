@@ -6,8 +6,11 @@
 </p>
 
 ## Installation
-1. Clone or download this repository.
-2. Open and Start using Visual Studio or any other alternative application.
+* Clone or download this repository.
+```
+git clone https://github.com/jovanidash21/visual-basic-temperature-converter.git
+```
+* Open and Start using Visual Studio or any other alternative application.
 
 ## Connect
 - [Wordpress](https://jovaniwarguez.wordpress.com/)
